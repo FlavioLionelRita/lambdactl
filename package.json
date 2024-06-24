@@ -29,7 +29,7 @@
 		"release": "grunt release"
 	},
 	"dependencies": {
-		"h3lp": "^1.12.0",
+		"h3lp": "^2.0.0",
 		"json-light": "^1.0.11",
 		"3xpr": "^1.15.23",
 		"lambdaorm-client-node": "^0.7.45",
